@@ -24,7 +24,7 @@ securely store and deploy your app's secrets.
 ## How do I get started?
 To test the app on your computer without Swarm mode, simply run:
 ```
-docker-compose up
+docker compose up
 ```
 
 If you're on a machine (or several machines) with Swarm, you can deploy it as
